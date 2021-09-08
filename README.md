@@ -42,14 +42,14 @@ Additional description about the project and its features.
 ## Getting Started
 ### Usage
 To have this app on your pc, you need to:
-* [download](https://github.com/javitocor/Weather-App-Django/archive/main.zip) or clone this repo:
+* [download](https://github.com/javitocor/Chat-App-Django/archive/main.zip) or clone this repo:
   - Clone with SSH:
   ```
-    git@github.com:javitocor/Weather-App-Django.git
+    git@github.com:javitocor/Chat-App-Django.git
   ```
   - Clone with HTTPS
   ```
-    https://github.com/javitocor/Weather-App-Django.git
+    https://github.com/javitocor/Chat-App-Django.git
   ```
 
 ## Author
@@ -63,7 +63,7 @@ To have this app on your pc, you need to:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/javitocor/Weather-App-Django/issues).
+Feel free to check the [issues page](https://github.com/javitocor/Chat-App-Django/issues).
 
 ## Show your support
 
@@ -80,11 +80,11 @@ This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Weather-App-Django.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Weather-App-Django/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Weather-App-Django.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Weather-App-Django/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Weather-App-Django.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Weather-App-Django/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Weather-App-Django.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Weather-App-Django/issuesover:
+[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Chat-App-Django.svg?style=flat-square
+[contributors-url]: https://github.com/javitocor/Chat-App-Django/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/javitocor/Chat-App-Django.svg?style=flat-square
+[forks-url]: https://github.com/javitocor/Chat-App-Django/network/members
+[stars-shield]: https://img.shields.io/github/stars/javitocor/Chat-App-Django.svg?style=flat-square
+[stars-url]: https://github.com/javitocor/Chat-App-Django/stargazers
+[issues-shield]: https://img.shields.io/github/issues/javitocor/Chat-App-Django.svg?style=flat-square
+[issues-url]: https://github.com/javitocor/Chat-App-Django/issuesover:
