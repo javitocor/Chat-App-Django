@@ -72,7 +72,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments 🚀
 
 - Django Docs
-- [Channle docs](https://channels.readthedocs.io/en/stable/index.html)
+- [Channel docs](https://channels.readthedocs.io/en/stable/index.html)
 
 ## 📝 License
 
